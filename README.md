@@ -64,4 +64,38 @@ Quiero desarrollarme en el ámbito laboral de la industria tecnológica y anhelo
 </ul>
 De estas funcionalidades destaco mi participación en el Login/Register, Carrito de Compras, Pasarela de pago y favoritos, además de la presentación final del proyecto frente a los correctores</p>
 
-Muchas gracias por llegar hasta aca, Saludos!
+<img src='./utils/Landing.png' alt="imagen">
+<h3>Otras Imagenes:</h3>
+<div display='flex'>
+<img src='./utils/ProductsList.png' alt="imagen" width='45%'><img src='./utils/Cart.png' alt="imagen" width='45%'><img src='./utils/UsersPanel.png' alt="imagen" width='45%'><img src='./utils/Login.png' alt="imagen" width='45%'></div>
+
+<hr/>
+
+<h3>Henry Dogs</h3>
+<div>
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white "> <img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'><img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"><img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'><img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'>
+</div>
+
+<p>Aplicación web realizada como proyecto individual que consume una API externa</p>
+<p>Fue un requisito excluyente para aprobar el bootcamp de Henry y un reto a superar debido a que fue mi primer experiencia como fullstack, donde debi encontrar todos los conocimientos adquiridos y verterlos en este proyecto</p>
+
+</br>
+<b>Principales funcionalidades:</b>
+<ul>
+<li>LandingPage</li>
+<li>Listado de tarjetas con paginado interactivo</li>
+<li>Filtros y ordenamientos</li>
+<li>Búsqueda</li>
+<li>Detalles extras de las tarjetas</li>
+<li>Formulario de creación</li>
+</ul>
+
+<img src='./utils/LandingPage.png' alt="imagen">
+<h3>Otras Imagenes:</h3>
+<div display='flex'>
+<img src='./utils/Cards.png' alt="imagen" width='45%'><img src='./utils/CreateForm.png' alt="imagen" width='45%'></div>
+
+</br>
+
+<h3>Muchas gracias por llegar hasta aca, Saludos!</h3>
